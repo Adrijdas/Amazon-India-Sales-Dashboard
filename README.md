@@ -1,6 +1,6 @@
 # Amazon India Sales Dashboard
 
-A Power BI dashboard project created to analyze Amazon India sales data and provide a clear overview of business performance through interactive KPIs, charts, and filters.
+A Power BI dashboard project designed to analyze Amazon India sales data and deliver actionable insights into business performance through interactive KPIs, dynamic visualizations, and user-driven filters.
 
 ## Dashboard Preview
 
